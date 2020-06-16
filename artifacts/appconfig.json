@@ -3,7 +3,7 @@
   "provider": "SAP FSM Panda",
   "description": "xiaoqing extension ET test",
   "version": "1.1",
-  "icon": "https://uploa.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/600px-Redis_Logo.svg.png",
+  "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d3/User_Circle1.png",
   "dockerRegistry": "docker.io/xiaoqing2chen",
   "helmChartVersion": "1.0.0",
   "parameters": []
